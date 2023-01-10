@@ -16,9 +16,16 @@ body {
 
 .content div button{
     border: 1px solid black;
+    border-radius: 10px;
+
     font-size: 30px;
 }
 
 .content input{
     font-size: 20px;
+}
+
+.content div button:hover{
+    background-color: rgb(150, 150, 150);
+    cursor: pointer;
 }
