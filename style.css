@@ -11,7 +11,7 @@ body {
 }
 
 .content div{
-    margin: 5px;
+    margin: 10px;
 }
 
 .content div button{
@@ -22,7 +22,7 @@ body {
 }
 
 .content input{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .content div button:hover{
