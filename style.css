@@ -27,5 +27,6 @@ body {
 
 .content div button:hover{
     background-color: rgb(150, 150, 150);
+    
     cursor: pointer;
 }
